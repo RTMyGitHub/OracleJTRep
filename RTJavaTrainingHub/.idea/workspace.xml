@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c12211-6b6d-495e-9613-4ab5465d584d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SecondClass.java" />
+    <list default="true" id="e7c12211-6b6d-495e-9613-4ab5465d584d" name="Default" comment="Commit Class 2">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassThree.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RTJavaTrainingHub.iws" />
@@ -26,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SecondClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SecondClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SecondClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20641026">
+            <state vertical-scroll-proportion="0.0">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassThree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ClassThree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1474359">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -568,7 +578,7 @@
       <created>1457749517527</created>
       <option name="number" value="Default" />
       <updated>1457749517527</updated>
-      <workItem from="1457749518668" duration="2336000" />
+      <workItem from="1457749518668" duration="2740000" />
     </task>
     <task id="LOCAL-00001" summary="First Java Project RTJavaTrainingHub by RT">
       <created>1457750558685</created>
@@ -576,11 +586,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457750558685</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Class 2">
+      <created>1457752034099</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457752034099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2336000" />
+    <option name="totallyTimeSpent" value="2740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1396" height="877" extended-state="6" />
@@ -618,7 +634,8 @@
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <MESSAGE value="First Java Project RTJavaTrainingHub by RT" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Java Project RTJavaTrainingHub by RT" />
+    <MESSAGE value="Commit Class 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Class 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,8 +663,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SecondClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20641026">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1474359">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
